@@ -1,0 +1,12 @@
+public class myclass5 {
+	static void mymethod(String fname) {
+		System.out.println(fname+" wedding ");
+	}
+
+	public static void main(String[] args) {
+	   mymethod("rajeshwari");
+	   mymethod("jerry");
+	   mymethod("sandya");
+	}
+
+}
